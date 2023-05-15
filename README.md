@@ -55,6 +55,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 * npm install next-auth
 * npm i @next-auth/prisma-adapter
 
+* npm i bcrypt
 * npm i -D @types/bcrypt
 
 * npm i swr
